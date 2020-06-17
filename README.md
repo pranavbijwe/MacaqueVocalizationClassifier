@@ -16,7 +16,8 @@ The table (taken from the study) below, lists the eight monkeys using a two-lett
 
 This study used a linear classifier to achieve a final 'mean classification performance' of 92%.
 
-**Result** : This model is able to achieve around 97-98% classification accuracy on the validation set with nearly equal training and validation losses, beating the linear classifier used in the study handily. 
+**Result** : This model is able to achieve around 97-98% classification accuracy on the validation set with nearly equal training and validation losses, beating the linear classifier used in the study handily.   
+
 
 ## The Spectograms
 
@@ -25,4 +26,8 @@ This study used a linear classifier to achieve a final 'mean classification perf
 ## The Confusion Matrix
 
 ![matrix](images/confusion.JPG)
+
+## Final Accuracy : 97.735%
+
+![accuracy](images/result.JPG)
 
