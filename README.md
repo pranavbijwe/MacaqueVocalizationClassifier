@@ -1,5 +1,8 @@
 ## Vocalization Classifier for Macaque 'coo' calls.
 
+## Citation : 
+Fukushima, Makoto et al. (2015), Data from: Distributed acoustic cues for caller identity in macaque vocalization, Dryad, Dataset, https://doi.org/10.5061/dryad.7f4p9
+
 **Aim** : This project aims to demonstrate the efficacy of using fastai's easy to use software library to build deep learning models for seemingly complex problems.
 
 ![macaque](images/macaque.jpg)
