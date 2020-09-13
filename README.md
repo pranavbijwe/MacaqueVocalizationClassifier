@@ -19,7 +19,7 @@ The table (taken from the study) below, lists the eight monkeys using a two-lett
 
 This study used a linear classifier to achieve a final 'mean classification performance' of 92%.
 
-**Result** : This model is able to achieve around 97-98% classification accuracy on the validation set with nearly equal training and validation losses, beating the linear classifier used in the study handily.   
+**Result** : This model is able to achieve around 97-98% classification accuracy on the validation set with nearly equal training and validation losses, beating the linear classifier used in the study handily. Moreover, the results present a case for a potentionally novel approach to sound classification in identifying unique individuals (in this particular case, macaques) in a group. Some practical use cases may include implementations in a monitoring system at a zoo, voice authentication and identifying individuals (animals or humans) in a scene from a video or video. 
 
 
 ## The Spectograms
